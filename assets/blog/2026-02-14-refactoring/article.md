@@ -4,13 +4,13 @@
 
 People ask me a lot if code quality has declined since I switched fully to agentic coding. Spoiler: it's the opposite. Let me tell you why.
 
-![WTF moments during code review — the universal developer experience](https://raw.githubusercontent.com/creative-it-Software-Consulting-e-U/public-content-assets/main/assets/blog/2026-02-14-refactoring/refactoring-wtf.jpg)
-
 ## 35 Years of Watching Code Rot
 
 Over the past 35 years of my coding life (I'm not joking — I am THAT old, and no, I didn't start at 5 years of age), I've seen many, many projects decline in code quality. Some started bad already. Some became too complex. Others were just badly maintained.
 
 Most of them suffered from what I call **"refactophobia"** — they were just too scared to refactor all the bad stuff out, the kind that naturally accumulates in long-living or large-codebase projects.
+
+![Strong correlation between organisational stupidness and bad code](https://raw.githubusercontent.com/creative-it-Software-Consulting-e-U/public-content-assets/main/assets/blog/2026-02-14-refactoring/refactoring-diagram.jpg)
 
 And to a certain extent, it was a good decision. The costs for refactoring are high, and the benefit for the customer or stakeholder is usually not measurable. "We spent 3 weeks making the code cleaner" doesn't exactly thrill a product owner.
 
