@@ -4,7 +4,7 @@
 
 People ask me a lot if code quality has declined since I switched fully to agentic coding. Spoiler: it's the opposite. Let me tell you why.
 
-![WTF moments during code review — the universal developer experience](https://raw.githubusercontent.com/creative-it-Software-Consulting-e-U/public-content-assets/30f948f7fc82efd71b82c92ded5582f407b69197/assets/blog/2026-02-14-refactoring/refactoring-wtf.jpg)
+![WTF moments during code review — the universal developer experience](https://raw.githubusercontent.com/creative-it-Software-Consulting-e-U/public-content-assets/main/assets/blog/2026-02-14-refactoring/refactoring-wtf.jpg)
 
 ## 35 Years of Watching Code Rot
 
